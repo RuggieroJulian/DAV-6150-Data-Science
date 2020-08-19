@@ -1,0 +1,59 @@
+,undergrad,grad,source,target,job,counts
+0,Accounting,Accounting ,0,1,,100.0
+5,Accounting,MBA,0,14,,40.0
+7,Accounting,Real Estate,0,19,,31.42857142857143
+9,Accounting,Taxation,0,21,,88.57142857142857
+11,Architecture And Environmental Design,Real Estate,2,19,,30.0
+12,Arts And Humanities-Other,Accounting ,3,1,,30.0
+23,Banking and Finance,Accounting ,4,1,,40.0
+29,Banking and Finance,MBA,4,14,,34.285714285714285
+32,Banking and Finance,Real Estate,4,19,,38.57142857142857
+34,Banking and Finance,Taxation,4,21,,31.42857142857143
+48,Business Administration And Management,Taxation,5,21,,45.714285714285715
+44,Business Administration And Management,Real Estate,5,19,,50.0
+35,Business Administration And Management,Accounting ,5,1,,55.714285714285715
+41,Business Administration And Management,MBA,5,14,,55.714285714285715
+54,Communications And Journalism,MBA,6,14,,41.42857142857143
+57,Communications And Journalism,Real Estate,6,19,,37.142857142857146
+60,Communications And Journalism,Taxation,6,21,,30.0
+71,Computer And Information Sciences,Real Estate,7,19,,30.0
+61,Computer And Information Sciences,Accounting ,7,1,,30.0
+67,Computer And Information Sciences,MBA,7,14,,32.85714285714286
+82,Economics,Real Estate,8,19,,31.42857142857143
+84,Economics,Taxation,8,21,,32.85714285714286
+73,Economics,Accounting ,8,1,,40.0
+79,Economics,MBA,8,14,,40.0
+93,Engineering-Other,Accounting ,9,1,,30.0
+99,Engineering-Other,MBA,9,14,,35.714285714285715
+102,Engineering-Other,Real Estate,9,19,,30.0
+104,Health And Medical Sciences,Accounting ,10,1,,34.285714285714285
+110,Health And Medical Sciences,MBA,10,14,,35.714285714285715
+117,History,Accounting ,11,1,,30.0
+122,History,MBA,11,14,,31.42857142857143
+126,Jewish Studies,MBA,12,14,,35.714285714285715
+127,Jewish Studies,Real Estate,12,19,,30.0
+131,Jewish Studies,Taxation,12,21,,30.0
+142,Law,Taxation,13,21,,30.0
+132,Law,Accounting ,13,1,,32.85714285714286
+137,Law,MBA,13,14,,31.42857142857143
+143,Mathematical Sciences,Accounting ,15,1,,32.85714285714286
+153,Mathematical Sciences,Taxation,15,21,,30.0
+154,Other,Accounting ,16,1,,30.0
+159,Other,MBA,16,14,,30.0
+175,Political Science,MBA,17,14,,31.42857142857143
+176,Political Science,Real Estate,17,19,,30.0
+178,Political Science,Taxation,17,21,,30.0
+184,Psychology,MBA,18,14,,32.85714285714286
+179,Psychology,Accounting ,18,1,,30.0
+193,Sociology,MBA,20,14,,30.0
+0,Arts And Humanities-Other,,3,22,Art Directors,71.42857142857143
+1,Banking and Finance,,4,23,Financial services sales agents,71.42857142857143
+2,,MBA,14,23,Financial services sales agents,71.42857142857143
+3,Banking and Finance,,4,24,Logisticians,71.42857142857143
+4,Banking and Finance,,4,25,Financial Managers,71.42857142857143
+5,Banking and Finance,,4,26,Financial Analyst,71.42857142857143
+6,Accounting,,0,27,Accountant & Auditor,71.42857142857143
+7,,Accounting ,1,28,Economist,71.42857142857143
+8,,Real Estate,19,29,"Property, real estate, and 
+community association managers",71.42857142857143
+9,,Taxation,21,30,Federal Tax Senior Manager,71.42857142857143

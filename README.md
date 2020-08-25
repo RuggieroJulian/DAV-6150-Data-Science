@@ -1,7 +1,7 @@
 # data-science
 
 ## DAV 6150
-Data Science tasks as part of MS in Data Analytics at Yeshiva University
+Data Science tasks as part of MS in Data Analytics at Yeshiva University 2020.
 
 ### List of Projects:
 - Cross Validating a Linear Regression Model

@@ -1,48 +1,245 @@
-,undergrad,grad,source,target,color_link,counts
-0,Accounting,Accounting ,0,1,"rgba(8, 163, 0, 0.7)",100.0
-5,Accounting,MBA,0,14,"rgba(242, 116, 32, 1)",40.0
-7,Accounting,Real Estate,0,19,"rgba(73, 148, 206, 1)",31.42857142857143
-9,Accounting,Taxation,0,21,"rgba(179, 193, 0, 1)",88.57142857142857
-11,Architect & Env. Design,Real Estate,2,19,"rgba(73, 148, 206, 1)",30.0
-12,Arts And Humanities,Accounting ,3,1,"rgba(8, 163, 0, 0.7)",30.0
-23,Banking and Finance,Accounting ,4,1,"rgba(8, 163, 0, 0.7)",40.0
-29,Banking and Finance,MBA,4,14,"rgba(242, 116, 32, 1)",34.285714285714285
-32,Banking and Finance,Real Estate,4,19,"rgba(73, 148, 206, 1)",38.57142857142857
-34,Banking and Finance,Taxation,4,21,"rgba(179, 193, 0, 1)",31.42857142857143
-48,Business Adm. & Manag.,Taxation,5,21,"rgba(179, 193, 0, 1)",45.714285714285715
-44,Business Adm. & Manag.,Real Estate,5,19,"rgba(73, 148, 206, 1)",50.0
-35,Business Adm. & Manag.,Accounting ,5,1,"rgba(8, 163, 0, 0.7)",55.714285714285715
-41,Business Adm. & Manag.,MBA,5,14,"rgba(242, 116, 32, 1)",55.714285714285715
-54,Communications And Journalism,MBA,6,14,"rgba(242, 116, 32, 1)",41.42857142857143
-57,Communications And Journalism,Real Estate,6,19,"rgba(73, 148, 206, 1)",37.142857142857146
-60,Communications And Journalism,Taxation,6,21,"rgba(179, 193, 0, 1)",30.0
-71,Computer And Inf. Sciences,Real Estate,7,19,"rgba(73, 148, 206, 1)",30.0
-61,Computer And Inf. Sciences,Accounting ,7,1,"rgba(8, 163, 0, 0.7)",30.0
-67,Computer And Inf. Sciences,MBA,7,14,"rgba(242, 116, 32, 1)",32.85714285714286
-82,Economics,Real Estate,8,19,"rgba(73, 148, 206, 1)",31.42857142857143
-84,Economics,Taxation,8,21,"rgba(179, 193, 0, 1)",32.85714285714286
-73,Economics,Accounting ,8,1,"rgba(8, 163, 0, 0.7)",40.0
-79,Economics,MBA,8,14,"rgba(242, 116, 32, 1)",40.0
-93,Engineering-Other,Accounting ,9,1,"rgba(8, 163, 0, 0.7)",30.0
-99,Engineering-Other,MBA,9,14,"rgba(242, 116, 32, 1)",35.714285714285715
-102,Engineering-Other,Real Estate,9,19,"rgba(73, 148, 206, 1)",30.0
-104,Health And Medical Sciences,Accounting ,10,1,"rgba(8, 163, 0, 0.7)",34.285714285714285
-110,Health And Medical Sciences,MBA,10,14,"rgba(242, 116, 32, 1)",35.714285714285715
-117,History,Accounting ,11,1,"rgba(8, 163, 0, 0.7)",30.0
-122,History,MBA,11,14,"rgba(242, 116, 32, 1)",31.42857142857143
-126,Jewish Studies,MBA,12,14,"rgba(242, 116, 32, 1)",35.714285714285715
-127,Jewish Studies,Real Estate,12,19,"rgba(73, 148, 206, 1)",30.0
-131,Jewish Studies,Taxation,12,21,"rgba(179, 193, 0, 1)",30.0
-142,Law,Taxation,13,21,"rgba(179, 193, 0, 1)",30.0
-132,Law,Accounting ,13,1,"rgba(8, 163, 0, 0.7)",32.85714285714286
-137,Law,MBA,13,14,"rgba(242, 116, 32, 1)",31.42857142857143
-143,Mathematical Sciences,Accounting ,15,1,"rgba(8, 163, 0, 0.7)",32.85714285714286
-153,Mathematical Sciences,Taxation,15,21,"rgba(179, 193, 0, 1)",30.0
-154,Other,Accounting ,16,1,"rgba(8, 163, 0, 0.7)",30.0
-159,Other,MBA,16,14,"rgba(242, 116, 32, 1)",30.0
-175,Political Science,MBA,17,14,"rgba(242, 116, 32, 1)",31.42857142857143
-176,Political Science,Real Estate,17,19,"rgba(73, 148, 206, 1)",30.0
-178,Political Science,Taxation,17,21,"rgba(179, 193, 0, 1)",30.0
-184,Psychology,MBA,18,14,"rgba(242, 116, 32, 1)",32.85714285714286
-179,Psychology,Accounting ,18,1,"rgba(8, 163, 0, 0.7)",30.0
-193,Sociology,MBA,20,14,"rgba(242, 116, 32, 1)",30.0
+,undergrad,grad,source,target,job,counts
+0,Accounting,Accounting MS,0,1,,37.97674418604652
+9,Accounting,Taxation MS,0,37,,36.674418604651166
+7,Accounting,Real Estate MS,0,31,,30.16279069767442
+6,Accounting,Quantitative Economics,0,30,,30.813953488372096
+5,Accounting,MBA,0,21,,31.13953488372093
+8,Accounting,Social Work/MSW,0,33,,31.790697674418606
+3,Accounting,Data Analytics and Visualization,0,11,,31.30232558139535
+2,Accounting,Cybersecurity,0,10,,30.651162790697676
+1,Accounting,Biotechnology Management and Entrepreneurship,0,6,,30.0
+4,Accounting,Digital Marketing and Media,0,12,,31.30232558139535
+10,Architecture And Environmental Design,Data Analytics and Visualization,2,11,,30.0
+11,Architecture And Environmental Design,Real Estate MS,2,31,,30.0
+18,Arts And Humanities-Other,Mathematics,4,23,,30.0
+22,Arts And Humanities-Other,Speech-Language Pathology,4,36,,31.953488372093027
+21,Arts And Humanities-Other,Special Education,4,35,,30.0
+19,Arts And Humanities-Other,Quantitative Economics,4,30,,30.0
+17,Arts And Humanities-Other,Digital Marketing and Media,4,12,,30.325581395348838
+20,Arts And Humanities-Other,Social Work/MSW,4,33,,53.6046511627907
+15,Arts And Humanities-Other,Cybersecurity,4,10,,30.16279069767442
+14,Arts And Humanities-Other,Biotechnology Management and Entrepreneurship,4,6,,30.0
+13,Arts And Humanities-Other,Artificial Intelligence,4,3,,30.16279069767442
+12,Arts And Humanities-Other,Accounting MS,4,1,,30.0
+16,Arts And Humanities-Other,Data Analytics and Visualization,4,11,,30.48837209302326
+34,Banking and Finance,Taxation MS,5,37,,30.16279069767442
+33,Banking and Finance,Social Work/MSW,5,33,,30.651162790697676
+32,Banking and Finance,Real Estate MS,5,31,,30.976744186046513
+31,Banking and Finance,Quantitative Economics,5,30,,32.93023255813954
+30,Banking and Finance,Mathematics,5,23,,30.0
+29,Banking and Finance,MBA,5,21,,30.48837209302326
+27,Banking and Finance,Data Analytics and Visualization,5,11,,31.953488372093027
+26,Banking and Finance,Cybersecurity,5,10,,30.16279069767442
+25,Banking and Finance,Biotechnology Management and Entrepreneurship,5,6,,30.0
+24,Banking and Finance,Artificial Intelligence,5,3,,30.0
+23,Banking and Finance,Accounting MS,5,1,,31.13953488372093
+28,Banking and Finance,Digital Marketing and Media,5,12,,30.48837209302326
+43,Business Administration And Management,Quantitative Economics,7,30,,31.13953488372093
+47,Business Administration And Management,Speech-Language Pathology,7,36,,30.48837209302326
+46,Business Administration And Management,Special Education,7,35,,30.0
+45,Business Administration And Management,Social Work/MSW,7,33,,40.093023255813954
+44,Business Administration And Management,Real Estate MS,7,31,,32.27906976744186
+42,Business Administration And Management,Mathematics,7,23,,30.16279069767442
+48,Business Administration And Management,Taxation MS,7,37,,31.790697674418606
+40,Business Administration And Management,Digital Marketing and Media,7,12,,37.0
+39,Business Administration And Management,Data Analytics and Visualization,7,11,,35.372093023255815
+38,Business Administration And Management,Cybersecurity,7,10,,32.93023255813954
+37,Business Administration And Management,Biotechnology Management and Entrepreneurship,7,6,,31.13953488372093
+36,Business Administration And Management,Artificial Intelligence,7,3,,30.813953488372096
+35,Business Administration And Management,Accounting MS,7,1,,32.93023255813954
+41,Business Administration And Management,MBA,7,21,,32.93023255813954
+60,Communications And Journalism,Taxation MS,8,37,,30.0
+59,Communications And Journalism,Speech-Language Pathology,8,36,,32.76744186046512
+58,Communications And Journalism,Social Work/MSW,8,33,,43.34883720930233
+57,Communications And Journalism,Real Estate MS,8,31,,30.813953488372096
+56,Communications And Journalism,Quantitative Economics,8,30,,30.325581395348838
+55,Communications And Journalism,Mathematics,8,23,,30.0
+53,Communications And Journalism,Digital Marketing and Media,8,12,,39.76744186046512
+52,Communications And Journalism,Data Analytics and Visualization,8,11,,30.976744186046513
+51,Communications And Journalism,Cybersecurity,8,10,,30.651162790697676
+50,Communications And Journalism,Biotechnology Management and Entrepreneurship,8,6,,30.16279069767442
+49,Communications And Journalism,Artificial Intelligence,8,3,,30.325581395348838
+54,Communications And Journalism,MBA,8,21,,31.30232558139535
+68,Computer And Information Sciences,Mathematics,9,23,,30.48837209302326
+71,Computer And Information Sciences,Real Estate MS,9,31,,30.0
+70,Computer And Information Sciences,Quantitative Economics,9,30,,30.48837209302326
+72,Computer And Information Sciences,Social Work/MSW,9,33,,31.790697674418606
+67,Computer And Information Sciences,MBA,9,21,,30.325581395348838
+69,Computer And Information Sciences,Physics,9,26,,30.0
+65,Computer And Information Sciences,Data Analytics and Visualization,9,11,,39.6046511627907
+64,Computer And Information Sciences,Cybersecurity,9,10,,40.418604651162795
+63,Computer And Information Sciences,Biotechnology Management and Entrepreneurship,9,6,,36.18604651162791
+62,Computer And Information Sciences,Artificial Intelligence,9,3,,33.25581395348837
+61,Computer And Information Sciences,Accounting MS,9,1,,30.0
+66,Computer And Information Sciences,Digital Marketing and Media,9,12,,31.953488372093027
+84,Economics,Taxation MS,13,37,,30.325581395348838
+83,Economics,Social Work/MSW,13,33,,32.44186046511628
+81,Economics,Quantitative Economics,13,30,,37.0
+80,Economics,Mathematics,13,23,,30.0
+79,Economics,MBA,13,21,,31.13953488372093
+82,Economics,Real Estate MS,13,31,,30.16279069767442
+77,Economics,Data Analytics and Visualization,13,11,,32.44186046511628
+76,Economics,Cybersecurity,13,10,,30.48837209302326
+75,Economics,Biotechnology Management and Entrepreneurship,13,6,,30.325581395348838
+74,Economics,Artificial Intelligence,13,3,,30.0
+73,Economics,Accounting MS,13,1,,31.13953488372093
+78,Economics,Digital Marketing and Media,13,12,,30.813953488372096
+85,Engineering-Electrical And Electronics,Biotechnology Management and Entrepreneurship,14,6,,30.16279069767442
+86,Engineering-Electrical And Electronics,Cybersecurity,14,10,,30.813953488372096
+87,Engineering-Electrical And Electronics,Data Analytics and Visualization,14,11,,31.30232558139535
+92,Engineering-Industrial,Social Work/MSW,15,33,,30.0
+91,Engineering-Industrial,Digital Marketing and Media,15,12,,30.0
+88,Engineering-Industrial,Artificial Intelligence,15,3,,30.0
+89,Engineering-Industrial,Biotechnology Management and Entrepreneurship,15,6,,30.0
+90,Engineering-Industrial,Data Analytics and Visualization,15,11,,30.0
+100,Engineering-Other,Mathematics,16,23,,30.976744186046513
+103,Engineering-Other,Social Work/MSW,16,33,,30.0
+102,Engineering-Other,Real Estate MS,16,31,,30.0
+101,Engineering-Other,Quantitative Economics,16,30,,31.953488372093027
+99,Engineering-Other,MBA,16,21,,30.651162790697676
+98,Engineering-Other,Digital Marketing and Media,16,12,,31.13953488372093
+97,Engineering-Other,Data Analytics and Visualization,16,11,,38.627906976744185
+96,Engineering-Other,Cybersecurity,16,10,,35.86046511627907
+95,Engineering-Other,Biotechnology Management and Entrepreneurship,16,6,,31.13953488372093
+94,Engineering-Other,Artificial Intelligence,16,3,,33.418604651162795
+93,Engineering-Other,Accounting MS,16,1,,30.0
+116,Health And Medical Sciences,Speech-Language Pathology,17,36,,69.55813953488372
+115,Health And Medical Sciences,Special Education,17,35,,30.0
+114,Health And Medical Sciences,Social Work/MSW,17,33,,46.27906976744187
+113,Health And Medical Sciences,Quantitative Economics,17,30,,30.0
+112,Health And Medical Sciences,Occupational Therapy,17,24,,30.0
+111,Health And Medical Sciences,Mathematics,17,23,,30.48837209302326
+109,Health And Medical Sciences,Digital Marketing and Media,17,12,,30.976744186046513
+108,Health And Medical Sciences,Data Analytics and Visualization,17,11,,32.6046511627907
+107,Health And Medical Sciences,Cybersecurity,17,10,,30.651162790697676
+106,Health And Medical Sciences,Biotechnology Management and Entrepreneurship,17,6,,47.74418604651163
+105,Health And Medical Sciences,Artificial Intelligence,17,3,,30.813953488372096
+104,Health And Medical Sciences,Accounting MS,17,1,,30.48837209302326
+110,Health And Medical Sciences,MBA,17,21,,30.651162790697676
+121,History,Digital Marketing and Media,18,12,,30.0
+122,History,MBA,18,21,,30.16279069767442
+120,History,Data Analytics and Visualization,18,11,,30.0
+123,History,Social Work/MSW,18,33,,33.58139534883721
+118,History,Biotechnology Management and Entrepreneurship,18,6,,30.0
+117,History,Accounting MS,18,1,,30.0
+119,History,Cybersecurity,18,10,,30.0
+124,Jewish Studies,Cybersecurity,19,10,,30.325581395348838
+125,Jewish Studies,Digital Marketing and Media,19,12,,30.0
+126,Jewish Studies,MBA,19,21,,30.651162790697676
+127,Jewish Studies,Real Estate MS,19,31,,30.0
+128,Jewish Studies,Social Work/MSW,19,33,,37.651162790697676
+129,Jewish Studies,Special Education,19,35,,30.325581395348838
+130,Jewish Studies,Speech-Language Pathology,19,36,,30.0
+131,Jewish Studies,Taxation MS,19,37,,30.0
+142,Law,Taxation MS,20,37,,30.0
+141,Law,Speech-Language Pathology,20,36,,30.16279069767442
+140,Law,Special Education,20,35,,30.0
+139,Law,Social Work/MSW,20,33,,43.674418604651166
+138,Law,Mathematics,20,23,,30.0
+134,Law,Cybersecurity,20,10,,30.325581395348838
+136,Law,Digital Marketing and Media,20,12,,30.0
+135,Law,Data Analytics and Visualization,20,11,,30.0
+133,Law,Biotechnology Management and Entrepreneurship,20,6,,30.0
+132,Law,Accounting MS,20,1,,30.325581395348838
+137,Law,MBA,20,21,,30.16279069767442
+150,Mathematical Sciences,Physics,22,26,,30.16279069767442
+153,Mathematical Sciences,Taxation MS,22,37,,30.0
+152,Mathematical Sciences,Social Work/MSW,22,33,,30.16279069767442
+151,Mathematical Sciences,Quantitative Economics,22,30,,33.093023255813954
+149,Mathematical Sciences,Mathematics,22,23,,41.395348837209305
+147,Mathematical Sciences,Data Analytics and Visualization,22,11,,35.86046511627907
+146,Mathematical Sciences,Cybersecurity,22,10,,30.813953488372096
+145,Mathematical Sciences,Biotechnology Management and Entrepreneurship,22,6,,30.16279069767442
+144,Mathematical Sciences,Artificial Intelligence,22,3,,30.813953488372096
+143,Mathematical Sciences,Accounting MS,22,1,,30.325581395348838
+148,Mathematical Sciences,Digital Marketing and Media,22,12,,30.48837209302326
+161,Other,Quantitative Economics,25,30,,30.325581395348838
+164,Other,Speech-Language Pathology,25,36,,30.48837209302326
+163,Other,Special Education,25,35,,31.30232558139535
+162,Other,Social Work/MSW,25,33,,38.46511627906977
+160,Other,Mathematics,25,23,,30.0
+157,Other,Data Analytics and Visualization,25,11,,31.62790697674419
+158,Other,Digital Marketing and Media,25,12,,31.13953488372093
+156,Other,Cybersecurity,25,10,,30.325581395348838
+155,Other,Biotechnology Management and Entrepreneurship,25,6,,30.48837209302326
+154,Other,Accounting MS,25,1,,30.0
+159,Other,MBA,25,21,,30.0
+169,Physics And Astronomy,Quantitative Economics,27,30,,30.0
+168,Physics And Astronomy,Physics,27,26,,30.48837209302326
+170,Physics And Astronomy,Social Work/MSW,27,33,,30.16279069767442
+166,Physics And Astronomy,Data Analytics and Visualization,27,11,,30.16279069767442
+165,Physics And Astronomy,Artificial Intelligence,27,3,,30.0
+167,Physics And Astronomy,Mathematics,27,23,,30.0
+178,Political Science,Taxation MS,28,37,,30.0
+177,Political Science,Social Work/MSW,28,33,,33.093023255813954
+176,Political Science,Real Estate MS,28,31,,30.0
+175,Political Science,MBA,28,21,,30.16279069767442
+172,Political Science,Cybersecurity,28,10,,30.48837209302326
+173,Political Science,Data Analytics and Visualization,28,11,,30.325581395348838
+171,Political Science,Biotechnology Management and Entrepreneurship,28,6,,30.0
+174,Political Science,Digital Marketing and Media,28,12,,30.325581395348838
+188,Psychology,Speech-Language Pathology,29,36,,34.23255813953489
+187,Psychology,Special Education,29,35,,31.46511627906977
+186,Psychology,Social Work/MSW,29,33,,100.0
+185,Psychology,Mathematics,29,23,,30.0
+184,Psychology,MBA,29,21,,30.325581395348838
+182,Psychology,Data Analytics and Visualization,29,11,,31.13953488372093
+181,Psychology,Cybersecurity,29,10,,30.651162790697676
+180,Psychology,Biotechnology Management and Entrepreneurship,29,6,,30.976744186046513
+179,Psychology,Accounting MS,29,1,,30.0
+183,Psychology,Digital Marketing and Media,29,12,,31.790697674418606
+189,Social Work,Digital Marketing and Media,32,12,,30.48837209302326
+190,Social Work,Social Work/MSW,32,33,,95.27906976744185
+194,Sociology,Social Work/MSW,34,33,,43.51162790697675
+193,Sociology,MBA,34,21,,30.0
+195,Sociology,Special Education,34,35,,30.0
+191,Sociology,Data Analytics and Visualization,34,11,,30.0
+192,Sociology,Digital Marketing and Media,34,12,,30.325581395348838
+196,Sociology,Speech-Language Pathology,34,36,,30.16279069767442
+0,,MBA,21,38,Financial services sales agents,34.72093023255814
+1,,Accounting MS,1,39,Economist,34.72093023255814
+2,,Real Estate MS,31,40,"Property, real estate, and 
+community association managers",34.72093023255814
+3,,Taxation MS,37,41,Federal Tax Senior Manager,34.72093023255814
+4,,Biotechnology Management and Entrepreneurship,6,42,Product Manager,34.72093023255814
+5,,Biotechnology Management and Entrepreneurship,6,43,Program Manager,34.72093023255814
+6,,Biotechnology Management and Entrepreneurship,6,44,Project Manager,34.72093023255814
+7,,Biotechnology Management and Entrepreneurship,6,45,Market Manager,34.72093023255814
+8,,Biotechnology Management and Entrepreneurship,6,46,Clinical Trials Manager,34.72093023255814
+9,,Biotechnology Management and Entrepreneurship,6,47,Compliance Auditor,34.72093023255814
+10,,Biotechnology Management and Entrepreneurship,6,48,Regulatory Affairs Specialist,34.72093023255814
+11,,Biotechnology Management and Entrepreneurship,6,49,Patent Manager,34.72093023255814
+12,,Biotechnology Management and Entrepreneurship,6,50,Business Development Specialist,34.72093023255814
+13,,Cybersecurity,10,51,Cybersecurity Engineer,34.72093023255814
+14,,Cybersecurity,10,52,IT Security Director,34.72093023255814
+15,,Cybersecurity,10,53,Info Assurance Specialist,34.72093023255814
+16,,Cybersecurity,10,54,Cybersecurity Analyst,34.72093023255814
+17,,Data Analytics and Visualization,11,55,Analyst,34.72093023255814
+18,,Data Analytics and Visualization,11,56,Data Scientist,34.72093023255814
+19,,Data Analytics and Visualization,11,42,Product Manager,34.72093023255814
+20,,Data Analytics and Visualization,11,57,Start-up Founder,34.72093023255814
+21,,Digital Marketing and Media,12,58,Brand Manager,34.72093023255814
+22,,Digital Marketing and Media,12,58,Brand Manager,34.72093023255814
+23,,Digital Marketing and Media,12,59,Creative Director,34.72093023255814
+24,,Digital Marketing and Media,12,60,Digital Marketing Manager,34.72093023255814
+25,,Digital Marketing and Media,12,61,Marketing Communications Manager,34.72093023255814
+26,,Digital Marketing and Media,12,62,Marketing Director,34.72093023255814
+27,,Digital Marketing and Media,12,63,Marketing Operations Director,34.72093023255814
+28,,Digital Marketing and Media,12,64,Market Research Analyst,34.72093023255814
+29,,Digital Marketing and Media,12,65,Media Director,34.72093023255814
+30,,Digital Marketing and Media,12,66,Product Development Manager,34.72093023255814
+31,,Digital Marketing and Media,12,67,Public Relations Manager,34.72093023255814
+32,,Digital Marketing and Media,12,68,Sales Manager,34.72093023255814
+33,,Digital Marketing and Media,12,69,Senior Marketing Program Manager,34.72093023255814
+34,,Digital Marketing and Media,12,70,SEO/SEM Manager,34.72093023255814
+35,,Mathematics,23,71,Actuary,34.72093023255814
+36,,Mathematics,23,72,Data analyst,34.72093023255814
+37,,Mathematics,23,73,Financial analyst,34.72093023255814
+38,,Mathematics,23,74,Investment Analyst,34.72093023255814
+39,,Mathematics,23,75,Mathematician,34.72093023255814
+40,,Mathematics,23,76,Quantitative Analyst,34.72093023255814
+41,,Mathematics,23,77,Statistician,34.72093023255814
+42,,Quantitative Economics,30,78,Econometrician,34.72093023255814
+43,,Quantitative Economics,30,79,Financial Analyst,34.72093023255814
+44,,Quantitative Economics,30,76,Quantitative Analyst,34.72093023255814
+45,,Quantitative Economics,30,80,Compliance Manager,34.72093023255814

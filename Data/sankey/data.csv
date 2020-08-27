@@ -1,0 +1,169 @@
+,undergrad,grad,counts,source,target,job
+1,Accounting,MS in Biotech. Management & Entrepreneurship,1,0,16,
+2,Accounting,MS in Cybersecurity,5,0,17,
+3,Accounting,MS in Data Analytics and Visualization,9,0,18,
+4,Accounting,MS in Digital Marketing and Media,9,0,19,
+6,Accounting,MS in Quantitative Economics,6,0,23,
+10,Architecture And Environmental Design,MS in Data Analytics and Visualization,1,1,18,
+22,Arts And Humanities-Other,MS in Speech-Language Pathology,13,2,24,
+19,Arts And Humanities-Other,MS in Quantitative Economics,1,2,23,
+18,Arts And Humanities-Other,MS in Mathematics,1,2,20,
+17,Arts And Humanities-Other,MS in Digital Marketing and Media,3,2,19,
+15,Arts And Humanities-Other,MS in Cybersecurity,2,2,17,
+14,Arts And Humanities-Other,MS in Biotech. Management & Entrepreneurship,1,2,16,
+13,Arts And Humanities-Other,MS in Artificial Intelligence,2,2,15,
+16,Arts And Humanities-Other,MS in Data Analytics and Visualization,4,2,18,
+30,Banking and Finance,MS in Mathematics,1,3,20,
+31,Banking and Finance,MS in Quantitative Economics,19,3,23,
+28,Banking and Finance,MS in Digital Marketing and Media,4,3,19,
+26,Banking and Finance,MS in Cybersecurity,2,3,17,
+25,Banking and Finance,MS in Biotech. Management & Entrepreneurship,1,3,16,
+24,Banking and Finance,MS in Artificial Intelligence,1,3,15,
+27,Banking and Finance,MS in Data Analytics and Visualization,13,3,18,
+36,Business Administration And Management,MS in Artificial Intelligence,6,4,15,
+37,Business Administration And Management,MS in Biotech. Management & Entrepreneurship,8,4,16,
+38,Business Administration And Management,MS in Cybersecurity,19,4,17,
+39,Business Administration And Management,MS in Data Analytics and Visualization,34,4,18,
+40,Business Administration And Management,MS in Digital Marketing and Media,44,4,19,
+42,Business Administration And Management,MS in Mathematics,2,4,20,
+43,Business Administration And Management,MS in Quantitative Economics,8,4,23,
+47,Business Administration And Management,MS in Speech-Language Pathology,4,4,24,
+55,Communications And Journalism,MS in Mathematics,1,5,20,
+59,Communications And Journalism,MS in Speech-Language Pathology,18,5,24,
+56,Communications And Journalism,MS in Quantitative Economics,3,5,23,
+53,Communications And Journalism,MS in Digital Marketing and Media,61,5,19,
+50,Communications And Journalism,MS in Biotech. Management & Entrepreneurship,2,5,16,
+51,Communications And Journalism,MS in Cybersecurity,5,5,17,
+49,Communications And Journalism,MS in Artificial Intelligence,3,5,15,
+52,Communications And Journalism,MS in Data Analytics and Visualization,7,5,18,
+62,Computer And Information Sciences,MS in Artificial Intelligence,21,6,15,
+63,Computer And Information Sciences,MS in Biotech. Management & Entrepreneurship,39,6,16,
+64,Computer And Information Sciences,MS in Cybersecurity,65,6,17,
+65,Computer And Information Sciences,MS in Data Analytics and Visualization,60,6,18,
+66,Computer And Information Sciences,MS in Digital Marketing and Media,13,6,19,
+68,Computer And Information Sciences,MS in Mathematics,4,6,20,
+69,Computer And Information Sciences,MS in Physics,1,6,22,
+70,Computer And Information Sciences,MS in Quantitative Economics,4,6,23,
+81,Economics,MS in Quantitative Economics,44,7,23,
+80,Economics,MS in Mathematics,1,7,20,
+78,Economics,MS in Digital Marketing and Media,6,7,19,
+76,Economics,MS in Cybersecurity,4,7,17,
+75,Economics,MS in Biotech. Management & Entrepreneurship,3,7,16,
+74,Economics,MS in Artificial Intelligence,1,7,15,
+77,Economics,MS in Data Analytics and Visualization,16,7,18,
+85,Engineering-Electrical And Electronics,MS in Biotech. Management & Entrepreneurship,2,8,16,
+86,Engineering-Electrical And Electronics,MS in Cybersecurity,6,8,17,
+87,Engineering-Electrical And Electronics,MS in Data Analytics and Visualization,9,8,18,
+88,Engineering-Industrial,MS in Artificial Intelligence,1,9,15,
+89,Engineering-Industrial,MS in Biotech. Management & Entrepreneurship,1,9,16,
+90,Engineering-Industrial,MS in Data Analytics and Visualization,1,9,18,
+91,Engineering-Industrial,MS in Digital Marketing and Media,1,9,19,
+100,Engineering-Other,MS in Mathematics,7,10,20,
+101,Engineering-Other,MS in Quantitative Economics,13,10,23,
+98,Engineering-Other,MS in Digital Marketing and Media,8,10,19,
+95,Engineering-Other,MS in Biotech. Management & Entrepreneurship,8,10,16,
+96,Engineering-Other,MS in Cybersecurity,37,10,17,
+94,Engineering-Other,MS in Artificial Intelligence,22,10,15,
+97,Engineering-Other,MS in Data Analytics and Visualization,54,10,18,
+105,Health And Medical Sciences,MS in Artificial Intelligence,6,11,15,
+106,Health And Medical Sciences,MS in Biotech. Management & Entrepreneurship,110,11,16,
+107,Health And Medical Sciences,MS in Cybersecurity,5,11,17,
+108,Health And Medical Sciences,MS in Data Analytics and Visualization,17,11,18,
+109,Health And Medical Sciences,MS in Digital Marketing and Media,7,11,19,
+111,Health And Medical Sciences,MS in Mathematics,4,11,20,
+112,Health And Medical Sciences,MS in Occupational Therapy,1,11,21,
+113,Health And Medical Sciences,MS in Quantitative Economics,1,11,23,
+116,Health And Medical Sciences,MS in Speech-Language Pathology,244,11,24,
+119,History,MS in Cybersecurity,1,12,17,
+121,History,MS in Digital Marketing and Media,1,12,19,
+118,History,MS in Biotech. Management & Entrepreneurship,1,12,16,
+120,History,MS in Data Analytics and Visualization,1,12,18,
+124,Jewish Studies,MS in Cybersecurity,3,13,17,
+125,Jewish Studies,MS in Digital Marketing and Media,1,13,19,
+130,Jewish Studies,MS in Speech-Language Pathology,1,13,24,
+133,Law,MS in Biotech. Management & Entrepreneurship,1,14,16,
+134,Law,MS in Cybersecurity,3,14,17,
+135,Law,MS in Data Analytics and Visualization,1,14,18,
+136,Law,MS in Digital Marketing and Media,1,14,19,
+138,Law,MS in Mathematics,1,14,20,
+141,Law,MS in Speech-Language Pathology,2,14,24,
+148,Mathematical Sciences,MS in Digital Marketing and Media,4,25,19,
+151,Mathematical Sciences,MS in Quantitative Economics,20,25,23,
+150,Mathematical Sciences,MS in Physics,2,25,22,
+149,Mathematical Sciences,MS in Mathematics,71,25,20,
+147,Mathematical Sciences,MS in Data Analytics and Visualization,37,25,18,
+145,Mathematical Sciences,MS in Biotech. Management & Entrepreneurship,2,25,16,
+144,Mathematical Sciences,MS in Artificial Intelligence,6,25,15,
+146,Mathematical Sciences,MS in Cybersecurity,6,25,17,
+155,Other,MS in Biotech. Management & Entrepreneurship,4,26,16,
+156,Other,MS in Cybersecurity,3,26,17,
+157,Other,MS in Data Analytics and Visualization,11,26,18,
+158,Other,MS in Digital Marketing and Media,8,26,19,
+160,Other,MS in Mathematics,1,26,20,
+161,Other,MS in Quantitative Economics,3,26,23,
+164,Other,MS in Speech-Language Pathology,4,26,24,
+169,Physics And Astronomy,MS in Quantitative Economics,1,27,23,
+167,Physics And Astronomy,MS in Mathematics,1,27,20,
+168,Physics And Astronomy,MS in Physics,4,27,22,
+165,Physics And Astronomy,MS in Artificial Intelligence,1,27,15,
+166,Physics And Astronomy,MS in Data Analytics and Visualization,2,27,18,
+171,Political Science,MS in Biotech. Management & Entrepreneurship,1,28,16,
+172,Political Science,MS in Cybersecurity,4,28,17,
+173,Political Science,MS in Data Analytics and Visualization,3,28,18,
+174,Political Science,MS in Digital Marketing and Media,3,28,19,
+180,Psychology,MS in Biotech. Management & Entrepreneurship,7,29,16,
+181,Psychology,MS in Cybersecurity,5,29,17,
+182,Psychology,MS in Data Analytics and Visualization,8,29,18,
+183,Psychology,MS in Digital Marketing and Media,12,29,19,
+185,Psychology,MS in Mathematics,1,29,20,
+188,Psychology,MS in Speech-Language Pathology,27,29,24,
+192,Sociology,MS in Digital Marketing and Media,3,30,19,
+191,Sociology,MS in Data Analytics and Visualization,1,30,18,
+196,Sociology,MS in Speech-Language Pathology,2,30,24,
+0,,MS in Biotech. Management & Entrepreneurship,30,16,31,Product Manager
+1,,MS in Biotech. Management & Entrepreneurship,30,16,32,Market Manager
+2,,MS in Biotech. Management & Entrepreneurship,30,16,33,Clinical Trials Manager
+3,,MS in Biotech. Management & Entrepreneurship,30,16,34,Regulatory Affairs Specialist
+4,,MS in Biotech. Management & Entrepreneurship,30,16,35,Patent Manager
+5,,MS in Biotech. Management & Entrepreneurship,30,16,36,Business Development Specialist
+6,,MS in Cybersecurity,30,17,37,Cybersecurity Engineer
+7,,MS in Cybersecurity,30,17,38,IT Security Director
+8,,MS in Cybersecurity,30,17,39,Info Assurance Specialist
+9,,MS in Cybersecurity,30,17,40,Cybersecurity Analyst
+10,,MS in Data Analytics and Visualization,30,18,41,Data Analyst
+11,,MS in Data Analytics and Visualization,30,18,42,Data Scientist
+12,,MS in Data Analytics and Visualization,30,18,31,Product Manager
+13,,MS in Data Analytics and Visualization,30,18,43,Start-up Founder
+14,,MS in Digital Marketing and Media,30,19,44,Digital Marketing Manager
+15,,MS in Digital Marketing and Media,30,19,45,Marketing Communications Manager
+16,,MS in Digital Marketing and Media,30,19,46,Marketing Director
+17,,MS in Digital Marketing and Media,30,19,47,Market Research Analyst
+18,,MS in Digital Marketing and Media,30,19,48,Product Development Manager
+19,,MS in Digital Marketing and Media,30,19,49,Public Relations Manager
+20,,MS in Digital Marketing and Media,30,19,50,Senior Marketing Program Manager
+21,,MS in Mathematics,30,20,51,Financial analyst
+22,,MS in Mathematics,30,20,52,Investment Analyst
+23,,MS in Mathematics,30,20,53,Mathematician
+24,,MS in Mathematics,30,20,54,Quantitative Analyst
+25,,MS in Mathematics,30,20,55,Statistician
+26,,MS in Quantitative Economics,30,23,56,Econometrician
+27,,MS in Quantitative Economics,30,23,57,Financial Analyst
+28,,MS in Quantitative Economics,30,23,54,Quantitative Analyst
+29,,MS in Quantitative Economics,30,23,58,Compliance Manager
+30,,MS in Artificial Intelligence,30,15,59,Machine Learing Engineer
+31,,MS in Artificial Intelligence,30,15,60,Artificial Intelligence Research
+32,,MS in Artificial Intelligence,30,15,42,Data Scientist
+33,,MS in Artificial Intelligence,30,15,61,Computer Vision Engineer
+34,,MS in Speech-Language Pathology,30,24,62,Speech Pathologist
+35,,MS in Speech-Language Pathology,30,24,63,Pediatric Speech Pathologist
+36,,MS in Speech-Language Pathology,30,24,64,Professor
+37,,MS in Physics,30,22,65,Astronomer
+38,,MS in Physics,30,22,66,Physicists
+39,,MS in Physics,30,22,67,Aerospace Engineer
+40,,MS in Physics,30,22,68,Biochemists and Biophysicists
+41,,MS in Physics,30,22,69,Physics Teachers
+42,,MS in Occupational Therapy,30,21,70,Occupational Therapist
+43,,MS in Occupational Therapy,30,21,71,Clinic Director
+44,,MS in Occupational Therapy,30,21,72,Health Specialties College Instructor
+45,,MS in Occupational Therapy,30,21,73,Rehabilitation Manager
+46,,MS in Occupational Therapy,30,21,74,Pediatric Occupational Therapist

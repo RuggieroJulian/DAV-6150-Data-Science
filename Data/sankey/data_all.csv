@@ -1,0 +1,277 @@
+,undergrad,grad,source,target,job,counts
+0,Accounting,MS in Accounting,0,16,,37.97674418604652
+9,Accounting,MS in Taxation,0,30,,36.674418604651166
+7,Accounting,MS in Real Estate,0,26,,30.16279069767442
+6,Accounting,MS in Quantitative Economics,0,25,,30.813953488372096
+5,Accounting,MBA,0,15,,31.13953488372093
+8,Accounting,MS in Social Work/MSW,0,27,,31.790697674418606
+3,Accounting,MS in Data Analytics and Visualization,0,20,,31.30232558139535
+2,Accounting,MS in Cybersecurity,0,19,,30.651162790697676
+1,Accounting,MS in Biotech. Management & Entrepreneurship,0,18,,30.0
+4,Accounting,MS in Digital Marketing and Media,0,21,,31.30232558139535
+10,Architecture And Environmental Design,MS in Data Analytics and Visualization,1,20,,30.0
+11,Architecture And Environmental Design,MS in Real Estate,1,26,,30.0
+18,Arts And Humanities-Other,MS in Mathematics,2,22,,30.0
+22,Arts And Humanities-Other,MS in Speech-Language Pathology,2,29,,31.953488372093027
+21,Arts And Humanities-Other,MS in Special Education,2,28,,30.0
+19,Arts And Humanities-Other,MS in Quantitative Economics,2,25,,30.0
+17,Arts And Humanities-Other,MS in Digital Marketing and Media,2,21,,30.325581395348838
+20,Arts And Humanities-Other,MS in Social Work/MSW,2,27,,53.6046511627907
+15,Arts And Humanities-Other,MS in Cybersecurity,2,19,,30.16279069767442
+14,Arts And Humanities-Other,MS in Biotech. Management & Entrepreneurship,2,18,,30.0
+13,Arts And Humanities-Other,MS in Artificial Intelligence,2,17,,30.16279069767442
+12,Arts And Humanities-Other,MS in Accounting,2,16,,30.0
+16,Arts And Humanities-Other,MS in Data Analytics and Visualization,2,20,,30.48837209302326
+34,Banking and Finance,MS in Taxation,3,30,,30.16279069767442
+33,Banking and Finance,MS in Social Work/MSW,3,27,,30.651162790697676
+32,Banking and Finance,MS in Real Estate,3,26,,30.976744186046513
+31,Banking and Finance,MS in Quantitative Economics,3,25,,32.93023255813954
+30,Banking and Finance,MS in Mathematics,3,22,,30.0
+29,Banking and Finance,MBA,3,15,,30.48837209302326
+27,Banking and Finance,MS in Data Analytics and Visualization,3,20,,31.953488372093027
+26,Banking and Finance,MS in Cybersecurity,3,19,,30.16279069767442
+25,Banking and Finance,MS in Biotech. Management & Entrepreneurship,3,18,,30.0
+24,Banking and Finance,MS in Artificial Intelligence,3,17,,30.0
+23,Banking and Finance,MS in Accounting,3,16,,31.13953488372093
+28,Banking and Finance,MS in Digital Marketing and Media,3,21,,30.48837209302326
+43,Business Administration And Management,MS in Quantitative Economics,4,25,,31.13953488372093
+47,Business Administration And Management,MS in Speech-Language Pathology,4,29,,30.48837209302326
+46,Business Administration And Management,MS in Special Education,4,28,,30.0
+45,Business Administration And Management,MS in Social Work/MSW,4,27,,40.093023255813954
+44,Business Administration And Management,MS in Real Estate,4,26,,32.27906976744186
+42,Business Administration And Management,MS in Mathematics,4,22,,30.16279069767442
+48,Business Administration And Management,MS in Taxation,4,30,,31.790697674418606
+40,Business Administration And Management,MS in Digital Marketing and Media,4,21,,37.0
+39,Business Administration And Management,MS in Data Analytics and Visualization,4,20,,35.372093023255815
+38,Business Administration And Management,MS in Cybersecurity,4,19,,32.93023255813954
+37,Business Administration And Management,MS in Biotech. Management & Entrepreneurship,4,18,,31.13953488372093
+36,Business Administration And Management,MS in Artificial Intelligence,4,17,,30.813953488372096
+35,Business Administration And Management,MS in Accounting,4,16,,32.93023255813954
+41,Business Administration And Management,MBA,4,15,,32.93023255813954
+60,Communications And Journalism,MS in Taxation,5,30,,30.0
+59,Communications And Journalism,MS in Speech-Language Pathology,5,29,,32.76744186046512
+58,Communications And Journalism,MS in Social Work/MSW,5,27,,43.34883720930233
+57,Communications And Journalism,MS in Real Estate,5,26,,30.813953488372096
+56,Communications And Journalism,MS in Quantitative Economics,5,25,,30.325581395348838
+55,Communications And Journalism,MS in Mathematics,5,22,,30.0
+53,Communications And Journalism,MS in Digital Marketing and Media,5,21,,39.76744186046512
+52,Communications And Journalism,MS in Data Analytics and Visualization,5,20,,30.976744186046513
+51,Communications And Journalism,MS in Cybersecurity,5,19,,30.651162790697676
+50,Communications And Journalism,MS in Biotech. Management & Entrepreneurship,5,18,,30.16279069767442
+49,Communications And Journalism,MS in Artificial Intelligence,5,17,,30.325581395348838
+54,Communications And Journalism,MBA,5,15,,31.30232558139535
+68,Computer And Information Sciences,MS in Mathematics,6,22,,30.48837209302326
+71,Computer And Information Sciences,MS in Real Estate,6,26,,30.0
+70,Computer And Information Sciences,MS in Quantitative Economics,6,25,,30.48837209302326
+72,Computer And Information Sciences,MS in Social Work/MSW,6,27,,31.790697674418606
+67,Computer And Information Sciences,MBA,6,15,,30.325581395348838
+69,Computer And Information Sciences,MS in Physics,6,24,,30.0
+65,Computer And Information Sciences,MS in Data Analytics and Visualization,6,20,,39.6046511627907
+64,Computer And Information Sciences,MS in Cybersecurity,6,19,,40.418604651162795
+63,Computer And Information Sciences,MS in Biotech. Management & Entrepreneurship,6,18,,36.18604651162791
+62,Computer And Information Sciences,MS in Artificial Intelligence,6,17,,33.25581395348837
+61,Computer And Information Sciences,MS in Accounting,6,16,,30.0
+66,Computer And Information Sciences,MS in Digital Marketing and Media,6,21,,31.953488372093027
+84,Economics,MS in Taxation,7,30,,30.325581395348838
+83,Economics,MS in Social Work/MSW,7,27,,32.44186046511628
+81,Economics,MS in Quantitative Economics,7,25,,37.0
+80,Economics,MS in Mathematics,7,22,,30.0
+79,Economics,MBA,7,15,,31.13953488372093
+82,Economics,MS in Real Estate,7,26,,30.16279069767442
+77,Economics,MS in Data Analytics and Visualization,7,20,,32.44186046511628
+76,Economics,MS in Cybersecurity,7,19,,30.48837209302326
+75,Economics,MS in Biotech. Management & Entrepreneurship,7,18,,30.325581395348838
+74,Economics,MS in Artificial Intelligence,7,17,,30.0
+73,Economics,MS in Accounting,7,16,,31.13953488372093
+78,Economics,MS in Digital Marketing and Media,7,21,,30.813953488372096
+85,Engineering-Electrical And Electronics,MS in Biotech. Management & Entrepreneurship,8,18,,30.16279069767442
+86,Engineering-Electrical And Electronics,MS in Cybersecurity,8,19,,30.813953488372096
+87,Engineering-Electrical And Electronics,MS in Data Analytics and Visualization,8,20,,31.30232558139535
+92,Engineering-Industrial,MS in Social Work/MSW,9,27,,30.0
+91,Engineering-Industrial,MS in Digital Marketing and Media,9,21,,30.0
+88,Engineering-Industrial,MS in Artificial Intelligence,9,17,,30.0
+89,Engineering-Industrial,MS in Biotech. Management & Entrepreneurship,9,18,,30.0
+90,Engineering-Industrial,MS in Data Analytics and Visualization,9,20,,30.0
+100,Engineering-Other,MS in Mathematics,10,22,,30.976744186046513
+103,Engineering-Other,MS in Social Work/MSW,10,27,,30.0
+102,Engineering-Other,MS in Real Estate,10,26,,30.0
+101,Engineering-Other,MS in Quantitative Economics,10,25,,31.953488372093027
+99,Engineering-Other,MBA,10,15,,30.651162790697676
+98,Engineering-Other,MS in Digital Marketing and Media,10,21,,31.13953488372093
+97,Engineering-Other,MS in Data Analytics and Visualization,10,20,,38.627906976744185
+96,Engineering-Other,MS in Cybersecurity,10,19,,35.86046511627907
+95,Engineering-Other,MS in Biotech. Management & Entrepreneurship,10,18,,31.13953488372093
+94,Engineering-Other,MS in Artificial Intelligence,10,17,,33.418604651162795
+93,Engineering-Other,MS in Accounting,10,16,,30.0
+116,Health And Medical Sciences,MS in Speech-Language Pathology,11,29,,69.55813953488372
+115,Health And Medical Sciences,MS in Special Education,11,28,,30.0
+114,Health And Medical Sciences,MS in Social Work/MSW,11,27,,46.27906976744187
+113,Health And Medical Sciences,MS in Quantitative Economics,11,25,,30.0
+112,Health And Medical Sciences,MS in Occupational Therapy,11,23,,30.0
+111,Health And Medical Sciences,MS in Mathematics,11,22,,30.48837209302326
+109,Health And Medical Sciences,MS in Digital Marketing and Media,11,21,,30.976744186046513
+108,Health And Medical Sciences,MS in Data Analytics and Visualization,11,20,,32.6046511627907
+107,Health And Medical Sciences,MS in Cybersecurity,11,19,,30.651162790697676
+106,Health And Medical Sciences,MS in Biotech. Management & Entrepreneurship,11,18,,47.74418604651163
+105,Health And Medical Sciences,MS in Artificial Intelligence,11,17,,30.813953488372096
+104,Health And Medical Sciences,MS in Accounting,11,16,,30.48837209302326
+110,Health And Medical Sciences,MBA,11,15,,30.651162790697676
+121,History,MS in Digital Marketing and Media,12,21,,30.0
+122,History,MBA,12,15,,30.16279069767442
+120,History,MS in Data Analytics and Visualization,12,20,,30.0
+123,History,MS in Social Work/MSW,12,27,,33.58139534883721
+118,History,MS in Biotech. Management & Entrepreneurship,12,18,,30.0
+117,History,MS in Accounting,12,16,,30.0
+119,History,MS in Cybersecurity,12,19,,30.0
+124,Jewish Studies,MS in Cybersecurity,13,19,,30.325581395348838
+125,Jewish Studies,MS in Digital Marketing and Media,13,21,,30.0
+126,Jewish Studies,MBA,13,15,,30.651162790697676
+127,Jewish Studies,MS in Real Estate,13,26,,30.0
+128,Jewish Studies,MS in Social Work/MSW,13,27,,37.651162790697676
+129,Jewish Studies,MS in Special Education,13,28,,30.325581395348838
+130,Jewish Studies,MS in Speech-Language Pathology,13,29,,30.0
+131,Jewish Studies,MS in Taxation,13,30,,30.0
+142,Law,MS in Taxation,14,30,,30.0
+141,Law,MS in Speech-Language Pathology,14,29,,30.16279069767442
+140,Law,MS in Special Education,14,28,,30.0
+139,Law,MS in Social Work/MSW,14,27,,43.674418604651166
+138,Law,MS in Mathematics,14,22,,30.0
+134,Law,MS in Cybersecurity,14,19,,30.325581395348838
+136,Law,MS in Digital Marketing and Media,14,21,,30.0
+135,Law,MS in Data Analytics and Visualization,14,20,,30.0
+133,Law,MS in Biotech. Management & Entrepreneurship,14,18,,30.0
+132,Law,MS in Accounting,14,16,,30.325581395348838
+137,Law,MBA,14,15,,30.16279069767442
+150,Mathematical Sciences,MS in Physics,31,24,,30.16279069767442
+153,Mathematical Sciences,MS in Taxation,31,30,,30.0
+152,Mathematical Sciences,MS in Social Work/MSW,31,27,,30.16279069767442
+151,Mathematical Sciences,MS in Quantitative Economics,31,25,,33.093023255813954
+149,Mathematical Sciences,MS in Mathematics,31,22,,41.395348837209305
+147,Mathematical Sciences,MS in Data Analytics and Visualization,31,20,,35.86046511627907
+146,Mathematical Sciences,MS in Cybersecurity,31,19,,30.813953488372096
+145,Mathematical Sciences,MS in Biotech. Management & Entrepreneurship,31,18,,30.16279069767442
+144,Mathematical Sciences,MS in Artificial Intelligence,31,17,,30.813953488372096
+143,Mathematical Sciences,MS in Accounting,31,16,,30.325581395348838
+148,Mathematical Sciences,MS in Digital Marketing and Media,31,21,,30.48837209302326
+161,Other,MS in Quantitative Economics,32,25,,30.325581395348838
+164,Other,MS in Speech-Language Pathology,32,29,,30.48837209302326
+163,Other,MS in Special Education,32,28,,31.30232558139535
+162,Other,MS in Social Work/MSW,32,27,,38.46511627906977
+160,Other,MS in Mathematics,32,22,,30.0
+157,Other,MS in Data Analytics and Visualization,32,20,,31.62790697674419
+158,Other,MS in Digital Marketing and Media,32,21,,31.13953488372093
+156,Other,MS in Cybersecurity,32,19,,30.325581395348838
+155,Other,MS in Biotech. Management & Entrepreneurship,32,18,,30.48837209302326
+154,Other,MS in Accounting,32,16,,30.0
+159,Other,MBA,32,15,,30.0
+169,Physics And Astronomy,MS in Quantitative Economics,33,25,,30.0
+168,Physics And Astronomy,MS in Physics,33,24,,30.48837209302326
+170,Physics And Astronomy,MS in Social Work/MSW,33,27,,30.16279069767442
+166,Physics And Astronomy,MS in Data Analytics and Visualization,33,20,,30.16279069767442
+165,Physics And Astronomy,MS in Artificial Intelligence,33,17,,30.0
+167,Physics And Astronomy,MS in Mathematics,33,22,,30.0
+178,Political Science,MS in Taxation,34,30,,30.0
+177,Political Science,MS in Social Work/MSW,34,27,,33.093023255813954
+176,Political Science,MS in Real Estate,34,26,,30.0
+175,Political Science,MBA,34,15,,30.16279069767442
+172,Political Science,MS in Cybersecurity,34,19,,30.48837209302326
+173,Political Science,MS in Data Analytics and Visualization,34,20,,30.325581395348838
+171,Political Science,MS in Biotech. Management & Entrepreneurship,34,18,,30.0
+174,Political Science,MS in Digital Marketing and Media,34,21,,30.325581395348838
+188,Psychology,MS in Speech-Language Pathology,35,29,,34.23255813953489
+187,Psychology,MS in Special Education,35,28,,31.46511627906977
+186,Psychology,MS in Social Work/MSW,35,27,,100.0
+185,Psychology,MS in Mathematics,35,22,,30.0
+184,Psychology,MBA,35,15,,30.325581395348838
+182,Psychology,MS in Data Analytics and Visualization,35,20,,31.13953488372093
+181,Psychology,MS in Cybersecurity,35,19,,30.651162790697676
+180,Psychology,MS in Biotech. Management & Entrepreneurship,35,18,,30.976744186046513
+179,Psychology,MS in Accounting,35,16,,30.0
+183,Psychology,MS in Digital Marketing and Media,35,21,,31.790697674418606
+189,Social Work,MS in Digital Marketing and Media,36,21,,30.48837209302326
+190,Social Work,MS in Social Work/MSW,36,27,,95.27906976744185
+194,Sociology,MS in Social Work/MSW,37,27,,43.51162790697675
+193,Sociology,MBA,37,15,,30.0
+195,Sociology,MS in Special Education,37,28,,30.0
+191,Sociology,MS in Data Analytics and Visualization,37,20,,30.0
+192,Sociology,MS in Digital Marketing and Media,37,21,,30.325581395348838
+196,Sociology,MS in Speech-Language Pathology,37,29,,30.16279069767442
+0,,MS in Biotech. Management & Entrepreneurship,18,38,Product Manager,34.72093023255814
+1,,MS in Biotech. Management & Entrepreneurship,18,39,Market Manager,34.72093023255814
+2,,MS in Biotech. Management & Entrepreneurship,18,40,Clinical Trials Manager,34.72093023255814
+3,,MS in Biotech. Management & Entrepreneurship,18,41,Regulatory Affairs Specialist,34.72093023255814
+4,,MS in Biotech. Management & Entrepreneurship,18,42,Patent Manager,34.72093023255814
+5,,MS in Biotech. Management & Entrepreneurship,18,43,Business Development Specialist,34.72093023255814
+6,,MS in Cybersecurity,19,44,Cybersecurity Engineer,34.72093023255814
+7,,MS in Cybersecurity,19,45,IT Security Director,34.72093023255814
+8,,MS in Cybersecurity,19,46,Info Assurance Specialist,34.72093023255814
+9,,MS in Cybersecurity,19,47,Cybersecurity Analyst,34.72093023255814
+10,,MS in Data Analytics and Visualization,20,48,Data Analyst,34.72093023255814
+11,,MS in Data Analytics and Visualization,20,49,Data Scientist,34.72093023255814
+12,,MS in Data Analytics and Visualization,20,38,Product Manager,34.72093023255814
+13,,MS in Data Analytics and Visualization,20,50,Start-up Founder,34.72093023255814
+14,,MS in Digital Marketing and Media,21,51,Digital Marketing Manager,34.72093023255814
+15,,MS in Digital Marketing and Media,21,52,Marketing Communications Manager,34.72093023255814
+16,,MS in Digital Marketing and Media,21,53,Marketing Director,34.72093023255814
+17,,MS in Digital Marketing and Media,21,54,Market Research Analyst,34.72093023255814
+18,,MS in Digital Marketing and Media,21,55,Product Development Manager,34.72093023255814
+19,,MS in Digital Marketing and Media,21,56,Public Relations Manager,34.72093023255814
+20,,MS in Digital Marketing and Media,21,57,Senior Marketing Program Manager,34.72093023255814
+21,,MS in Mathematics,22,58,Financial analyst,34.72093023255814
+22,,MS in Mathematics,22,59,Investment Analyst,34.72093023255814
+23,,MS in Mathematics,22,60,Mathematician,34.72093023255814
+24,,MS in Mathematics,22,61,Quantitative Analyst,34.72093023255814
+25,,MS in Mathematics,22,62,Statistician,34.72093023255814
+26,,MS in Quantitative Economics,25,63,Econometrician,34.72093023255814
+27,,MS in Quantitative Economics,25,64,Financial Analyst,34.72093023255814
+28,,MS in Quantitative Economics,25,61,Quantitative Analyst,34.72093023255814
+29,,MS in Quantitative Economics,25,65,Compliance Manager,34.72093023255814
+30,,MS in Artificial Intelligence,17,66,Machine Learing Engineer,34.72093023255814
+31,,MS in Artificial Intelligence,17,67,Artificial Intelligence Research,34.72093023255814
+32,,MS in Artificial Intelligence,17,49,Data Scientist,34.72093023255814
+33,,MS in Artificial Intelligence,17,68,Computer Vision Engineer,34.72093023255814
+34,,MS in Speech-Language Pathology,29,69,Speech Pathologist,34.72093023255814
+35,,MS in Speech-Language Pathology,29,70,Pediatric Speech Pathologist,34.72093023255814
+36,,MS in Speech-Language Pathology,29,71,Professor,34.72093023255814
+37,,MS in Physics,24,72,Astronomer,34.72093023255814
+38,,MS in Physics,24,73,Physicists,34.72093023255814
+39,,MS in Physics,24,74,Aerospace Engineer,34.72093023255814
+40,,MS in Physics,24,75,Biochemists and Biophysicists,34.72093023255814
+41,,MS in Physics,24,76,Physics Teachers,34.72093023255814
+42,,MS in Occupational Therapy,23,77,Occupational Therapist,34.72093023255814
+43,,MS in Occupational Therapy,23,78,Clinic Director,34.72093023255814
+44,,MS in Occupational Therapy,23,79,Health Specialties College Instructor,34.72093023255814
+45,,MS in Occupational Therapy,23,80,Rehabilitation Manager,34.72093023255814
+46,,MS in Occupational Therapy,23,81,Pediatric Occupational Therapist,34.72093023255814
+47,,MBA,15,82,Financial services sales agents,34.72093023255814
+48,,MBA,15,83,Financial Advisor,34.72093023255814
+49,,MBA,15,84,Management Analyst,34.72093023255814
+50,,MBA,15,85,Investment Banker,34.72093023255814
+51,,MBA,15,86,Finance Manager,34.72093023255814
+52,,MBA,15,87,Information Technology Manager,34.72093023255814
+53,,MBA,15,88,Marketing Manager,34.72093023255814
+54,,MS in Accounting,16,89,Auditor,34.72093023255814
+55,,MS in Accounting,16,90,Economist,34.72093023255814
+56,,MS in Accounting,16,91,Information and Technology Accountant,34.72093023255814
+57,,MS in Accounting,16,64,Financial Analyst,34.72093023255814
+58,,MS in Accounting,16,92,Forensic Accountant,34.72093023255814
+59,,MS in Accounting,16,93,Managerial Accountant,34.72093023255814
+60,,MS in Accounting,16,94,Chief Financial Officer,34.72093023255814
+61,,MS in Real Estate,26,95,Real Estate Broker,34.72093023255814
+62,,MS in Real Estate,26,96,Real Estate Asset Manager,34.72093023255814
+63,,MS in Real Estate,26,97,Real Estate Business Development Manager,34.72093023255814
+64,,MS in Real Estate,26,98,Investment Manager,34.72093023255814
+65,,MS in Real Estate,26,99,Real Estate Investor,34.72093023255814
+66,,MS in Real Estate,26,100,Property Manager,34.72093023255814
+67,,MS in Taxation,30,101,Federal Tax Senior Manager,34.72093023255814
+68,,MS in Taxation,30,94,Chief Financial Officer,34.72093023255814
+69,,MS in Taxation,30,102,Financial Manager,34.72093023255814
+70,,MS in Taxation,30,103,Certified Public Accountant,34.72093023255814
+71,,MS in Social Work/MSW,27,104,Clinician,34.72093023255814
+72,,MS in Social Work/MSW,27,105,Agency Director,34.72093023255814
+73,,MS in Social Work/MSW,27,106,Social Work Professor,34.72093023255814
+74,,MS in Social Work/MSW,27,107,Social Work Administrator,34.72093023255814
+75,,MS in Special Education,28,108,Special Education Teacher,34.72093023255814
+76,,MS in Special Education,28,109,Behavior Intervention Specialist,34.72093023255814
+77,,MS in Special Education,28,110,Instructional Coordinator,34.72093023255814
+78,,MS in Special Education,28,111,Education Postsecondary Instructor,34.72093023255814
